@@ -1,0 +1,829 @@
+header{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+    background-color: white;
+    height: 70px;
+}
+.images{
+    position: relative;
+    top: 5px;
+    left: 110px;
+}
+header button {
+    position: relative;
+    top: -100px;
+    left: 1160px;
+    padding: 10px;
+    background-color: rgb(98, 98, 216);
+    border-radius: 15px;
+}
+header button a{
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header h2{
+    position: relative;
+    top:-50px;
+    left: 40px;
+    padding: 0 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header ul li{
+    display: inline-block;
+    padding: 15px;
+    position: relative;
+    top: -162px;
+    left:150px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header ul li a{
+    text-decoration:none;
+    color: black;
+}
+header img{
+    position: relative;
+    top: 10px;
+}
+header ul2 li {
+    display: inline-block;
+    padding: 15px;
+    position: relative;
+    top: -225px;
+    left:750px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header ul2 li a{
+    color: black;
+    text-decoration: none;
+}
+.One{
+    background-color: #f0ebeb;
+    position: relative;
+    top: -26px;
+    font-size: 22px;
+}
+.One h1{
+    position: relative;
+    top: 200px;
+}
+.One img{
+    position: relative;
+    left: 570px;
+    top: -120px;
+}
+.One p{
+    position: relative;
+    top: 200px;
+}
+.One button{
+    position: relative;
+    top: -480px;
+    left: -700px;
+    padding: 10px 40px;
+    background-color: rgb(98, 98, 216);
+    border-radius: 15px;
+}
+.One button a{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-decoration: none; }
+.One search img{
+    position: relative;
+    left: 8px;
+    top: 4px;
+}
+.Two{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Two span{
+    padding: 4px 10px;
+    border-radius: 15px;
+    background-color: rgb(208, 206, 206) ;
+    color: rgb(95, 95, 95);
+}
+.Two h2{
+    font-size: x-large;
+}
+.Two p{
+    color: hsl(0, 1%, 40%);
+}
+.Two button{
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: white;
+}
+.Two button a{
+    color: black;
+    text-decoration: none;
+}
+.Two button a img{
+    position: relative;
+    left: 7px;
+    top: 3px;
+}
+.Three{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.Three span{
+    padding: 5px 10px;
+    border-radius: 18px;
+    color: rgb(95, 95, 95);
+    background-color: rgb(208, 206, 206);
+}
+.Three h2{
+    font-size: x-large;
+}
+.Three p{
+    color: hsl(0, 1%, 40%);
+}
+.Three button{
+    position: relative;
+    left: -150px;
+    top: 20px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: white;
+}
+.Three button a{
+    color: black;
+    text-decoration: none;
+}
+.Three div a{
+    position: relative;
+    left: 80px;
+    top: -9px;
+    color: black;
+}
+.Four{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Four span{
+    padding: 5px 10px;
+    border-radius: 18px;
+    color: rgb(95, 95, 95);
+    background-color: rgb(208, 206, 206);
+}
+.Four h2{
+    font-size: x-large;
+}
+.Four p{
+    color: hsl(0, 1%, 40%);
+}
+.Four button{
+    position: relative;
+    left: -150px;
+    top: 20px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: white;
+}
+.Four button a{
+    color: black;
+    text-decoration: none;
+}
+.Four div a{
+    position: relative;
+    left: 80px;
+    top: -9px;
+    color: black;
+}
+
+.padlock{
+    position: relative;
+    bottom: 700px;
+}
+.Five{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.Five h2{
+    font-size: x-large;
+    position: relative;
+    bottom: 700px;
+    color: white;
+}
+.Five p{
+    color: hsl(0, 1%, 40%);
+    position: relative;
+    bottom: 700px;
+}
+
+.Five button{
+    position: relative;
+    left: -150px;
+    bottom: 670px;
+    padding: 10px 20px;
+    border: solid white;
+    border-radius: 10px;
+    background-color: black;
+}
+.Five button a{
+    color: white;
+    text-decoration: none;
+}
+.Five div a{
+    position: relative;
+    left: 80px;
+    bottom: 700px;
+    color: white;
+}
+.Six{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    bottom: 200px;
+    height: 1500px;
+}
+.Six h1{
+    text-align: center;
+}
+
+.text{
+    display: inline-block;
+    text-decoration: none;
+}
+.Seven{
+    border-radius: 20px;
+    width: 600px;
+    height: 220px;
+    background-color: rgb(208, 206, 206);
+    font-family: Arial, Helvetica, sans-serif;
+} 
+.Seven h3{
+    position: relative;
+    left: 220px;
+    top: 40px;
+}
+.Seven p{
+    position: relative;
+    top: -190px;
+    left: 220px;
+}
+.Seven a{
+    position: relative;
+    top: -200px;
+    left: 225px;
+    color: black;
+}
+.Seven img{
+    position: relative;
+    left: 10px;
+    top: -30px;
+}
+
+.Eight{
+    border-radius: 20px;
+    width: 600px;
+    height: 220px;
+    background-color: rgb(208, 206, 206);
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top:-236px;
+    left: 650px;
+    list-style: none;
+} 
+.Eight h3{
+    position: relative;
+    left: 220px;
+    top: 40px;
+}
+.Eight p{
+    position: relative;
+    top: -190px;
+    left: 220px;
+}
+.Eight a{
+    position: relative;
+    top: -200px;
+    left: 225px;
+    color: black;
+}
+.Eight img{
+    position: relative;
+    left: 10px;
+    top: -30px;
+}
+
+.Nine{
+    border-radius: 20px;
+    width: 600px;
+    height: 220px;
+    background-color: rgb(208, 206, 206);
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top:-236px;
+} 
+.Nine h3{
+    position: relative;
+    left: 220px;
+    top: 40px;
+}
+.Nine p{
+    position: relative;
+    top: 30px;
+    left: 220px;
+}
+.Nine a{
+    position: relative;
+    top: -165px;
+    left: 20px;
+    color: black;
+}
+.Nine img{
+    position: relative;
+    left: 10px;
+    top: -100px;
+}
+.Ten{
+    border-radius: 20px;
+    width: 600px;
+    height: 220px;
+    background-color: rgb(208, 206, 206);
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top:-475px;
+    left: 650px;
+    list-style: none;
+} 
+.Ten h3{
+    position: relative;
+    left: 220px;
+    top: 40px;
+}
+.Ten p{
+    position: relative;
+    top: 30px;
+    left: 220px;
+}
+.Ten a{
+    position: relative;
+    top: -165px;
+    left: 20px;
+    color: black;
+}
+.Ten img{
+    position: relative;
+    left: 10px;
+    top: -100px;
+}
+.Eleven{
+    border-radius: 20px;
+    width: 600px;
+    height: 220px;
+    background-color: rgb(208, 206, 206);
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top:-470px;
+} 
+.Eleven h3{
+    position: relative;
+    left: 220px;
+    top: 40px;
+}
+.Eleven p{
+    position: relative;
+    top: 30px;
+    left: 220px;
+}
+.Eleven a{
+    position: relative;
+    top: -165px;
+    left: 20px;
+    color: black;
+}
+.Eleven img{
+    position: relative;
+    left: 10px;
+    top: -100px;
+}
+
+.Twelve{
+    border-radius: 20px;
+    width: 600px;
+    height: 220px;
+    background-color: rgb(208, 206, 206);
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top:-707px;
+    left: 650px;
+    list-style: none;
+} 
+.Twelve h3{
+    position: relative;
+    left: 220px;
+    top: 40px;
+}
+.Twelve p{
+    position: relative;
+    top: 30px;
+    left: 220px;
+}
+.Twelve a{
+    position: relative;
+    top: -165px;
+    left: 20px;
+    color: black;
+}
+.Twelve img{
+    position: relative;
+    left: 10px;
+    top: -100px;
+}
+.meje{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    bottom: -1415px;
+    background-color:rgb(244, 242, 242);
+    height: 1000px; 
+}
+.meje h1{
+    text-align: center;
+    position: relative;
+    bottom: 300px;
+}
+.apple{
+    background-color: rgb(255, 255, 255);
+    width: 330px;
+    border: solid rgb(163, 160, 160);
+    border-radius: 20px;
+    text-align: left;
+    list-style: none;
+    position: relative;
+    bottom: 300px;
+}
+.apple p{
+    color:rgb(126, 125, 125);
+}
+.apple a{
+    color: black;
+}
+.ball{
+    background-color: rgb(255, 255, 255);
+    width: 330px;
+    border: solid rgb(216, 215, 215);
+    border-radius: 20px;
+    text-align: left;
+    position: relative;
+    bottom: 770px;
+    left: 440px;
+    list-style: none;
+}
+.ball p{
+    color:rgb(126, 125, 125);
+}
+.ball a{
+    color: black;
+}
+.cat{
+    background-color: rgb(255, 255, 255);
+    width: 330px;
+    border: solid rgb(216, 215, 215);
+    border-radius: 20px;
+    text-align: left;
+    position: relative;
+    bottom: 1220px;
+    left: 870px;
+    list-style: none;
+}
+.cat p{
+    color:rgb(126, 125, 125);
+}
+.cat a{
+    color: black;
+}
+.fit{
+    text-decoration: none;
+    position: relative;
+    left: 550px;
+    bottom: 990px;
+}
+.mejo{
+    position: relative;
+    bottom: -1400px;
+    background-color: black;
+    color: white;
+    height: 800px;
+}
+.mejo div ul{
+    list-style: none;
+}
+.z{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    left: -60px;
+    
+}
+.z a{
+    color: white;
+    text-decoration: none;
+}
+.a{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    left: -60px;
+}
+.a a{
+    color: white;
+    text-decoration: none;
+}
+.b{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    left: -60px;
+}
+.b a{
+    color: white;
+    text-decoration: none;
+}
+.c{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    left: -60px;
+}
+.c a{
+    color: white;
+    text-decoration: none;
+}
+.d{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    left: -60px;
+}
+.d a{
+    color: white;
+    text-decoration: none;
+}
+.e{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    left: -60px;
+}
+.e a{
+    color: white;
+    text-decoration: none;
+}
+
+.mesan{
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.pics{
+    position: relative;
+    bottom: 600px;
+}
+.right h1{
+    position: relative;
+    top: -700px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.right div h1{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top:-500px;
+}
+.car{
+    position: relative;
+    left: 400px;
+    bottom: 400px;
+}
+.z li{
+    margin: 20px;
+}
+.a li{
+    margin: 20px;
+}
+.b li{
+    margin: 20px;
+}
+.c li{
+    margin: 20px;
+}
+.d li{
+    margin: 20px;
+}
+.e li{
+    margin: 20px;
+}
+.youtube{
+    position: relative;
+    left: 20px;
+    top: 50px;
+}
+.whatsapp{
+    position: relative;
+    left: 50px;
+    top: 50px;
+}
+.phone{
+    position: relative;
+    left: 10px;
+    top: 50px;
+}
+.sixty{
+    position: relative;
+    left: -600px;
+    
+}
+@media screen and (max-width: 414px){
+    header{
+    width: 414px;
+}
+    header button {
+    font-size: 10px;
+}
+    header button a{
+    font-size: 10px;
+}
+    header h2{
+    font-size: 25px;
+    position: relative;
+    top: -60px;
+    left: 35px;
+}
+    header ul li{
+        font-size: 10px;
+        top: -305px;
+        left: 30px;
+    }
+    header ul li a{
+    font-size: 10px;
+}
+    .img{
+        width: 50px;
+        height: 50px;
+        position: relative;
+        top: 5px;
+        left: -7px;
+}
+    header ul2 li {
+        position: relative;
+        left: 100px;
+    }
+    .cont{
+        position: relative;
+        top: -1000px;
+    }
+    .app{
+        position: relative;
+        top: -1000px;
+    }
+    .log{
+        font-size: 15px;
+    }
+    .sign{
+        font-size: 15px;
+    }
+    header ul2 li a{
+        position: relative;
+        left: -150px;
+        top: -10px;
+    }
+    .One h1{
+        font-size: 40px;
+    }
+    .One img{
+        position: relative;
+        left: 0px;
+        top: 200px;
+        width: 360px;
+        height: 360px;
+    }
+    .Three button{
+    position: relative;
+    left: -95px;
+    top: 20px;
+}
+    .padlock{
+        position: relative;
+        bottom: 420px;
+}
+    .rectangle{
+        height: 500px;
+        width: 400px;
+        position: relative;
+        left: -435px;
+    }
+    .Five{
+        background-color: black;
+    }
+    .Five h2{
+    position: relative;
+    bottom: 430px;   
+}
+    .Five p{
+    position: relative;
+    bottom: 430px;
+    font-size: 15px;
+}
+.Five button{
+    position: relative;
+    left: -80px;
+    bottom: 420px;
+}
+.Five div a{
+    position: relative;
+    left: 80px;
+    bottom: 450px;
+}
+.Four button{
+    position: relative;
+    left: -90px;
+    top: 20px;
+}
+.text{
+    display:inline-block;
+}
+.Six{
+    background-color: white;
+    position: relative;
+    bottom: 300px;
+}
+.Six h1{
+    position: relative;
+    top: 110px;
+}
+.Seven{
+    position: relative;
+    top: 140px;
+    left: -220px;
+    width: 900px;
+}
+.Nine{
+    position: relative;
+    top: -80px;
+    left: -220px;
+    width: 900px;
+}
+.Eleven{
+    position: relative;
+    top: -300px;
+    left: -220px;
+    width: 900px;
+}
+.right h1{
+    position: relative;
+    left: 50px;
+    top: -620px;    
+}
+.pics{
+    height: 400px;
+    width: 400px;
+}
+.car{
+    height: 300px;
+    width: 300px;
+    position: relative;
+    left: 20px;
+}
+.right div h1{
+    position: relative;
+    left: -20px;
+    top: -400px;
+}
+.right div{
+    position: relative;
+    bottom: 100px;
+}
+.meje{
+    position: relative;
+    bottom: 0px;
+    top: 300px;
+}
+.meje h1{
+    position: relative;
+    bottom: 1000px;
+}
+.apple{
+    position: relative;
+    left: -30px;
+    top: -920px; 
+}
+.ball{
+    position: relative;
+    left: -30px;
+    top: -920px;
+}
+.cat{
+    position: relative;
+    left: -30px;
+    top: -900px;
+}
+.sixty{
+    position: relative;
+    left: 0px;
+    top: 700px;
+    height: 1000px;
+}
+.fit{
+    position: relative;
+    left: 100px;
+    top: -850px;
+}
+}
